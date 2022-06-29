@@ -1,0 +1,2 @@
+-estamos relocos papi relocos 
+- como podemos cer visual studio code detecta que estmos utilizando un control de versiones 
