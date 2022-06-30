@@ -29,4 +29,12 @@ la union de estas ramas se llama merge
 - con solo git diff puede mirarse las diferencias si la version anterior esta en stagirn
 - con git log --stat nos permite ver los cambios que se hicieron en cada archivo
 - para ver un archivo en especifico copiamos la ruta y utilizamos git checkout ruta nombre
-- para volver a la version actual se git checkout master nombre
+- para volver a la version actual se git checkout master nombre		EN RESUMEN 
+1) se tiene un directorio de trabajo, el cual es el entorno de trabajo personal, este es la carpeta donde tenemos los proyectos 
+2) el COMANDO git init aparencen -una area de preparacion (Staging) 
+1[D[[D[D-base de datos historicos del proyecto este es el repositorio local
+3) con git add . hace un tracked (rastreo
+[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[D) este analiza el archivo y ve di hay vinculos y tambien agrega estos cambios y pasa ha la memoria ram o Staging
+4) con git commit lo envia a el repositorio local 
+
+
