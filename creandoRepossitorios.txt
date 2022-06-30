@@ -45,3 +45,7 @@ la union de estas ramas se llama merge
 -para envair la version actual (la rama master), al repositorio remoto se utliza git push
 -git fetch copia la ultmia version del repositorio remoto a el repositorio local, git merge une la ultma version del repositorio local a mis archivos
 -git  pull copia a el repositorio local y a mis archivos 
+
+
+            LAS RAMAS 
+- son formas que nos permiten hacer  cambios sin afectar la rama principal,
