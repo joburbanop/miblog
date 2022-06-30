@@ -27,3 +27,5 @@ la union de estas ramas se llama merge
 
 - a git solo le importa los archivos, las carpetas las crea como rutas
 - con solo git diff puede mirarse las diferencias si la version anterior esta en stagirn
+- con git long --stat nos permite ver los cambios que se hicieron en cada archivo
+- para ver un archivo en especifico copiamos la ruta y utilizamos git checkout ruta nombre
