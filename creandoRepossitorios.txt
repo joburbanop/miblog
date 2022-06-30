@@ -1,3 +1,6 @@
 -estamos relocos papi reloco 
 - como podemos cer visual studio code detecta que estmos utilizando un control de versiones 
 - se utiliza rm --cached para borrar de la memoria 
+
+        RUTA DE APRENDIZAJE 
+1) aprender git y gihub junto con un poco de linea de comandos y poo en platzzi para seguir con poo de udemy 
