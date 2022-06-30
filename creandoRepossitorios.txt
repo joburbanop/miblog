@@ -1,6 +1,27 @@
--estamos relocos papi reloco 
+
+1) se tiene un direcotrio o una carpeta donde se tiene los archivos o files que estamos trabajando
+2) ejecutamos por consola, en el directorio deseado el comando git init, pasan muchas cosas
+	2.1)se crea una area en memoria RAM llamada stagirng, donde de se guardan los cambios que se realizan del proyecto momentaneamente 
+	2.2) se crea un repositorio el cual es llamado .git por definicion en esta se gurdan los cambios final
+con git add pasa a stagirn
+
+ARA TRAER LOS CAMBIOS DEL REPOSITORIO 
+- checkout pasa los utltimos cambios del repositorio a nuestros archivos, con sus banderas podemos modificar como traer esa informacion
+
+BREACH (ramas)
+- por defecto se esta en la rama master, donde estan las versiones de los archivos, 
+-  se copia la rama master y se modifica, se realiza versiones las que uno desee
+- hotfix es una rama donde se realiza la reparacion de bugs en la version acutal 
+
+
+la union de estas ramas se llama merge
+
+
+-git es un control de vesiones , todo lo que hemos modificado anterioemente esta guardado en estas versiones
 - como podemos cer visual studio code detecta que estmos utilizando un control de versiones 
 - se utiliza rm --cached para borrar de la memoria 
+- git diff direcicion de una version direccion de otra  versio, compara
 
-        RUTA DE APRENDIZAJE 
+
+        QUE PASA EN GIT  
 1) aprender git y gihub junto con un poco de linea de comandos y poo en platzzi para seguir con poo de udemy 
