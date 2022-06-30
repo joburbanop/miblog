@@ -24,3 +24,6 @@ la union de estas ramas se llama merge
 
 -  git diff direccion direccion
 -  git reset --hard o --solf hard es mucho mas invasivo de esta forma podemos ir a la version que deseemos 
+
+- a git solo le importa los archivos, las carpetas las crea como rutas
+- con solo git diff puede mirarse las diferencias si la version anterior esta en stagirn
