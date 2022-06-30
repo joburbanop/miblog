@@ -21,3 +21,5 @@ la union de estas ramas se llama merge
 - como podemos cer visual studio code detecta que estmos utilizando un control de versiones 
 - se utiliza rm --cached para borrar de la memoria 
 - git diff direcicion de una version direccion de otra  versio, compara
+
+-  git diff direccion direccion
