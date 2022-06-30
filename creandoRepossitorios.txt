@@ -1,2 +1,3 @@
--estamos relocos papi relocos 
+-estamos relocos papi reloco 
 - como podemos cer visual studio code detecta que estmos utilizando un control de versiones 
+- se utiliza rm --cached para borrar de la memoria 
