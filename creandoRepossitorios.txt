@@ -38,3 +38,10 @@ la union de estas ramas se llama merge
                                  -base de datos historicos del proyecto este es el repositorio local
 3) con git add . hace un tracked (rastreo) este analiza el archivo y ve di hay vinculos y tambien agrega estos cambios y pasa ha la memoria ram o Staging
 4) con git commit lo envia a el repositorio local
+
+
+            REPOSITORIO REMOTO
+-es un repositorio el cual se utiliza para trbajar en conjunto 
+-para envair la version actual (la rama master), al repositorio remoto se utliza git push
+-git fetch copia la ultmia version del repositorio remoto a el repositorio local, git merge une la ultma version del repositorio local a mis archivos
+-git  pull copia a el repositorio local y a mis archivos 
