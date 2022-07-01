@@ -31,6 +31,9 @@ la union de estas ramas se llama merge
 - con git log --stat nos permite ver los cambios que se hicieron en cada archivo
 - para ver un archivo en especifico copiamos la ruta y utilizamos git checkout ruta nombre
 - para volver a la version actual se git checkout master nombre
+-git log --all --graph
+-git log --all --graph --decorate --oneline
+
 
                 EN RESUMEN
 1) se tiene un directorio de trabajo, el cual es el entorno de trabajo personal, este es la carpeta donde tenemos los proyectos
@@ -78,3 +81,10 @@ la union de estas ramas se llama merge
 
 - para agregar la llave ssh-add (ruta donde esta la llave privada) 
 - cada usuario y cada computadora debe tener una llave unica 
+
+        TAG-etiqueta
+-git tag -a "versio" -m "mesaje a enviar " direccion
+-git show-ref --tags de esta forma podemos ver donde se agrego el tag
+- 
+
+
