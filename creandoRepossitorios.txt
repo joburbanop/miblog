@@ -48,4 +48,7 @@ la union de estas ramas se llama merge
 
 
             LAS RAMAS 
-- son formas que nos permiten hacer  cambios sin afectar la rama principal,
+- son formas que nos permiten hacer  cambios sin afectar la rama principal
+- git branch nombredelanuevarama
+- con git checkout nombredelarama podemos movernos entre ramas
+- una ves etando en la nueva rama todas los cobios seran modificados en la rama
