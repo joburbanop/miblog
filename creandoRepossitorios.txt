@@ -90,5 +90,8 @@ la union de estas ramas se llama merge
 - si se desea borrar un tag git tag -d version a borrar, esta se borra del repositorio local
 - para borrar de git-ub se utiliza  git push --tags y luego git push nombreRemoto :refs/tags/version
 
+        TRABAJAR EN CONJUNTO 
+- se debe dar permiso para que ingrese este puede ser de dos formas para que ingresse nombe publico o correo publico
+- el nuevo integenate no nocesesita que inicie o cree el repositorio este puede ser descargado
 
 
