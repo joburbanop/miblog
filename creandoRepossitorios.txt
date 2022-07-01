@@ -62,3 +62,10 @@ la union de estas ramas se llama merge
 - este ocurre cuando dos progrmadores cambiaron la misma linea de codigo
 - sale un estado de stanbite mientras se elige el cambio que deseamos realizar 
 
+
+        GIHUB 
+-es un sitio web que por dentro tiene un super servidor de git 
+-es una especie de intefas visual de los repositorios 
+- se puede importa repositorio (este si esta online),crear un nuevo repositorio, nueva organizacion (es como tu empresa)
+   un proyecto es un grupo de repositorios que se puede tener dentro de una empresa o no, gist es un pesados de codigo que se puede compartir
+
