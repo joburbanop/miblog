@@ -60,3 +60,5 @@ la union de estas ramas se llama merge
 
         CONFLICTO 
 - este ocurre cuando dos progrmadores cambiaron la misma linea de codigo
+- sale un estado de stanbite mientras se elige el cambio que deseamos realizar 
+
