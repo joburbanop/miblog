@@ -57,4 +57,6 @@ la union de estas ramas se llama merge
 - merge trae todo lo que hay en el ultimo commit de la rama y los fuciona
 - merge necesita enviar un mensaje, y elemina las demas versiones que se tiene 
 - se recomienda hacer merge en master
-- 
+
+        CONFLICTO 
+- este ocurre cuando dos progrmadores cambiaron la misma linea de codigo
