@@ -65,3 +65,16 @@ la union de estas ramas se llama merge
 - pull para importar 
 - push exportar 
 - git remote add nombre url,  de esta forma podemos crear
+- eliminar un repositorio remoto git remote rm (nombre)
+- cambiar la url del repositorio remoto git remote set-url 
+
+        LLAVES PUBLICAS  Y LLAVES PRIVADAS
+- estas dos llaves estan vinculadas matematicamente, entonces lo que se cifre con la privada tambien se hara con la publica 
+- entonces se cifra con la llave publica de alquien lae vamos a enviar el menmsaje 
+- la clave y contraseña esta siendo gurdada de manera local podemos pasar ese codigo a git y git hub 
+
+- para crear una llave se utiliza el comando ssh-keygen -t (que algoritmo vamos a utilizar) rsa -b (complejidad) -C (el correo)
+- primero se revisa el servidor de llaves este encendido para que este verifique y se pueda realizar la conceccio doble evall $(ssh-agent -s)
+
+- para agregar la llave ssh-add (ruta donde esta la llave privada) 
+- cada usuario y cada computadora debe tener una llave unica 
