@@ -85,6 +85,10 @@ la union de estas ramas se llama merge
         TAG-etiqueta
 -git tag -a "versio" -m "mesaje a enviar " direccion
 -git show-ref --tags de esta forma podemos ver donde se agrego el tag
-- 
+-los tag no son cambios y si entras en gi stastus no sale nada que enviar 
+- para enviar los tags a el repostorio en git-ub se utiliza git push nombreRemoto --tags
+- si se desea borrar un tag git tag -d version a borrar, esta se borra del repositorio local
+- para borrar de git-ub se utiliza  git push --tags y luego git push nombreRemoto :refs/tags/version
+
 
 
