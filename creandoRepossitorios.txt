@@ -52,3 +52,9 @@ la union de estas ramas se llama merge
 - git branch nombredelanuevarama
 - con git checkout nombredelarama podemos movernos entre ramas
 - una ves etando en la nueva rama todas los cobios seran modificados en la rama
+
+        PARA HACER UN MERGE 
+- merge trae todo lo que hay en el ultimo commit de la rama y los fuciona
+- merge necesita enviar un mensaje, y elemina las demas versiones que se tiene 
+- se recomienda hacer merge en master
+- 
