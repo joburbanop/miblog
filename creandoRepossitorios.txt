@@ -62,3 +62,6 @@ la union de estas ramas se llama merge
 - este ocurre cuando dos progrmadores cambiaron la misma linea de codigo
 - sale un estado de stanbite mientras se elige el cambio que deseamos realizar 
 
+- pull para importar 
+- push exportar 
+- git remote add nombre url,  de esta forma podemos crear
